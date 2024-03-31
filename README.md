@@ -1,8 +1,8 @@
 
 ```yaml
-* YOUR TEXT GOES HERE *
+* 
 
-name: Sasha Dae<BR>
+name: Sasha Dae
 located_in: Guanacaste, Costa Rica
 current_job: Remote Teacher and Creative
 company: Varsity and Nativecamp
