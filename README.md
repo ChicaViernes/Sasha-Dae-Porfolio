@@ -1,4 +1,4 @@
-name: Sasha Dae
+name: Sasha Dae<BR>
 located_in: Guanacaste, Costa Rica
 current_job: Remote Teacher and Creative
 company: Varsity and Nativecamp
