@@ -1,3 +1,7 @@
+
+```yaml
+* YOUR TEXT GOES HERE *
+
 name: Sasha Dae<BR>
 located_in: Guanacaste, Costa Rica
 current_job: Remote Teacher and Creative
@@ -41,3 +45,4 @@ information   - Strict attention to details - Flexible - Responsive - Responsibl
 soft_skills: Creative writing - Event Planning - Logic problems - Learning from Mistakes - Collaboration - Refocusing after interruptions - Getting other people to talk about themselves and listening to their stories -
 
 hobbies: ["Yoga", "Equestrian", "Music", "Reading", "Chess", "Surfin"]
+```
