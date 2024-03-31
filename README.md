@@ -11,7 +11,7 @@ future_job: UX / UI Designer
 
 education:
   [
-    "Roya Conservatory of Music Piano and Voice",
+    "Royal Conservatory of Music Piano and Voice",
     "Masters Web and Graphic Design",
     "Google Foundations of UX Design",
     "Google Front End Development",
